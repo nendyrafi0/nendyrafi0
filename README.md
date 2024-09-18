@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is **Nendy Rafi A.M.**<br>
+
+i'm a **Cloud Computing Cohort** at **Bangkit Academy** led by Google, GoTo, and Traveloka.<br>
+i'm also a **Student** at **University of Bina Sarana Informatika** in Jakarta, Indonesia.<br>
+
+If you're interested in me, go check out my [LinkedIn](https://www.linkedin.com/in/nendy-rafi-a-8abbb4286)
 <!--
 **nendyrafi0/nendyrafi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
