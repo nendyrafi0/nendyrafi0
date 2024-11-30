@@ -8,7 +8,7 @@ i'm also a **Student** at **University of Bina Sarana Informatika** in Jakarta, 
 If you're interested in me, go check out my [LinkedIn](https://www.linkedin.com/in/nendy-rafi-a-8abbb4286)
 
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/nendyrafi0">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nendyrafi0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nendyrafi0&layout=compact&theme=algolia"/>
 </a>
